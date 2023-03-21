@@ -18,8 +18,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ```yaml
 name: Rahul Prasad
-located_in: West Bengal , India
-current_job: Full Stack Developer
+located_in: West Bengal,India
+ Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
