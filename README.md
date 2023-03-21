@@ -52,7 +52,10 @@ hobbies: [🕹️"Gaming", 🎥"Cinema", 🎨"Painting",
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://auth.geeksforgeeks.org/user/rahulp00rtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahulp00rtx" height="30" width="40" /></a>
+<a href="https://codepen.io/@not_interested" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@not_interested" height="30" width="40" /></a>
+
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-p-007&show_icons=true&locale=en&layout=compact" alt="rahul-p-007" /></p>
 
