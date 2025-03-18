@@ -23,7 +23,7 @@ located_in: West Bengal,India
 education:
   [
     "Self-Taught Developer and Designer",
-    "Bachelor of Computer Application",
+    "Master of Computer Application",
   ]
 
 
