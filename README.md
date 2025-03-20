@@ -63,4 +63,4 @@ hobbies: [🕹️"Gaming", 🎥"Cinema", 🎨"Painting",
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-p-007&" alt="rahul-p-007" /></p>
 
-![Snake animation](https://github.com/rahul-p-007/rahul-p-007/blob/output/github-contribution-grid-snake.svg)
+
